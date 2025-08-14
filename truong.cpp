@@ -16,5 +16,5 @@ int main(){
         else 
             cout<<" c là số lớn nhất";    
 
-    printf("Anh yêu em nhiều lắm");
+    printf("\nAnh yêu em nhiều lắm em có đồng ý ko");
 }
